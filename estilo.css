@@ -15,7 +15,7 @@
             padding: 0;
             overflow-x: hidden;
             background-image:
-            linear-gradient(rgba(0, 0, 0, 0.520),rgba(0, 0, 0, 0.520)), url("https://media.gq.com.mx/photos/5fe8d09a0507c68ea5158169/16:9/w_2560%2Cc_limit/ferrari-los-cinco-mejores-autos.jpg");
+            url("https://media.gq.com.mx/photos/5fe8d09a0507c68ea5158169/16:9/w_2560%2Cc_limit/ferrari-los-cinco-mejores-autos.jpg");
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
