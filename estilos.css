@@ -198,7 +198,7 @@ section h3 {
     border: none;
 }
 footer {
-    background: #910000;
+    background: linear-gradient(to right, #111111, #910000);
     color: white;
     text-align: center;
     padding: 2.5rem;
